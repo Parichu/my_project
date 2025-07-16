@@ -1,0 +1,1 @@
+/home/parichu/intern/intern_task/src/myfirstbot/launch/launch_sim.launch.py

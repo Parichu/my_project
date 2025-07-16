@@ -1,0 +1,4 @@
+[console_scripts]
+delta_motor = robot_launch.delta_motor:main
+delta_odom = robot_launch.delta_odom:main
+

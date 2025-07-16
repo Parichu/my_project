@@ -1,0 +1,17 @@
+[0.299s] Invoking command in '/home/parichu/intern/lidar_test/build/test_lidar': PYTHONPATH=/home/parichu/intern/lidar_test/build/test_lidar/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parichu/intern/lidar_test/install/test_lidar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parichu/intern/lidar_test/build/test_lidar/build --no-deps symlink_data
+[0.429s] running develop
+[0.501s] running egg_info
+[0.501s] writing test_lidar.egg-info/PKG-INFO
+[0.501s] writing dependency_links to test_lidar.egg-info/dependency_links.txt
+[0.501s] writing entry points to test_lidar.egg-info/entry_points.txt
+[0.501s] writing requirements to test_lidar.egg-info/requires.txt
+[0.501s] writing top-level names to test_lidar.egg-info/top_level.txt
+[0.502s] reading manifest file 'test_lidar.egg-info/SOURCES.txt'
+[0.502s] writing manifest file 'test_lidar.egg-info/SOURCES.txt'
+[0.503s] running build_ext
+[0.503s] Creating /home/parichu/intern/lidar_test/install/test_lidar/lib/python3.10/site-packages/test-lidar.egg-link (link to .)
+[0.504s] Installing test_lidarnode script to /home/parichu/intern/lidar_test/install/test_lidar/lib/test_lidar
+[0.504s] 
+[0.504s] Installed /home/parichu/intern/lidar_test/build/test_lidar
+[0.504s] running symlink_data
+[0.518s] Invoked command in '/home/parichu/intern/lidar_test/build/test_lidar' returned '0': PYTHONPATH=/home/parichu/intern/lidar_test/build/test_lidar/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parichu/intern/lidar_test/install/test_lidar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parichu/intern/lidar_test/build/test_lidar/build --no-deps symlink_data

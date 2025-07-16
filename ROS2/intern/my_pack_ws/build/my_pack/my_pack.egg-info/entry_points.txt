@@ -1,0 +1,3 @@
+[console_scripts]
+param = my_pack.paramcontrol:main
+

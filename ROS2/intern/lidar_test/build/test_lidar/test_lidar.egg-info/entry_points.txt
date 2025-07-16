@@ -1,0 +1,3 @@
+[console_scripts]
+test_lidarnode = test_lidar.test_lidarnode:main
+

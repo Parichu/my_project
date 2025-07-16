@@ -1,0 +1,53 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/parichu/intern/intern_task/build/myfirstbot
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/config/drive_bot.rviz
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/config/empty.yaml
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/config/view_bot.rviz
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/description/gazebo_control.xacro
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/description/inertial_macros.xacro
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/description/lidar.xacro
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/description/robot.urdf.xacro
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/description/robot_core.xacro
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/launch/launch_sim.launch.py
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/launch/rsp.launch.py
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/worlds/empty.world
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/worlds/obstacles.world
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/ament_index/resource_index/package_run_dependencies/myfirstbot
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/ament_index/resource_index/parent_prefix_path/myfirstbot
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/environment/ament_prefix_path.sh
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/environment/ament_prefix_path.dsv
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/environment/path.sh
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/environment/path.dsv
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/local_setup.bash
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/local_setup.sh
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/local_setup.zsh
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/local_setup.dsv
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/package.dsv
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/ament_index/resource_index/packages/myfirstbot
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/cmake/myfirstbotConfig.cmake
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/cmake/myfirstbotConfig-version.cmake
+-- Symlinking: /home/parichu/intern/intern_task/install/myfirstbot/share/myfirstbot/package.xml

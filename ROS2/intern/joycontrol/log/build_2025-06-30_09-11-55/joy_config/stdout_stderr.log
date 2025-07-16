@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating joy_config.egg-info
+writing joy_config.egg-info/PKG-INFO
+writing dependency_links to joy_config.egg-info/dependency_links.txt
+writing entry points to joy_config.egg-info/entry_points.txt
+writing requirements to joy_config.egg-info/requires.txt
+writing top-level names to joy_config.egg-info/top_level.txt
+writing manifest file 'joy_config.egg-info/SOURCES.txt'
+reading manifest file 'joy_config.egg-info/SOURCES.txt'
+writing manifest file 'joy_config.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/parichu/intern/joycontrol/install/joy_config/lib/python3.10/site-packages/joy-config.egg-link (link to .)
+
+Installed /home/parichu/intern/joycontrol/build/joy_config
+running symlink_data
+symbolically linking /home/parichu/intern/joycontrol/build/joy_config/package.xml -> /home/parichu/intern/joycontrol/install/joy_config/share/joy_config
+creating /home/parichu/intern/joycontrol/install/joy_config/share/joy_config/launch
+symbolically linking /home/parichu/intern/joycontrol/build/joy_config/launch/xbox_start.launch.py -> /home/parichu/intern/joycontrol/install/joy_config/share/joy_config/launch
+creating /home/parichu/intern/joycontrol/install/joy_config/share/joy_config/config
+symbolically linking /home/parichu/intern/joycontrol/build/joy_config/config/xbox_control.yaml -> /home/parichu/intern/joycontrol/install/joy_config/share/joy_config/config

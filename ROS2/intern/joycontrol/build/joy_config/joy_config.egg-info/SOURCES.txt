@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+config/xbox_control.yaml
+joy_config.egg-info/PKG-INFO
+joy_config.egg-info/SOURCES.txt
+joy_config.egg-info/dependency_links.txt
+joy_config.egg-info/entry_points.txt
+joy_config.egg-info/requires.txt
+joy_config.egg-info/top_level.txt
+joy_config.egg-info/zip-safe
+launch/xbox_start.launch.py

@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating test_lidar.egg-info
+writing test_lidar.egg-info/PKG-INFO
+writing dependency_links to test_lidar.egg-info/dependency_links.txt
+writing entry points to test_lidar.egg-info/entry_points.txt
+writing requirements to test_lidar.egg-info/requires.txt
+writing top-level names to test_lidar.egg-info/top_level.txt
+writing manifest file 'test_lidar.egg-info/SOURCES.txt'
+reading manifest file 'test_lidar.egg-info/SOURCES.txt'
+writing manifest file 'test_lidar.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/parichu/intern/lidar_test/install/test_lidar/lib/python3.10/site-packages/test-lidar.egg-link (link to .)
+
+Installed /home/parichu/intern/lidar_test/build/test_lidar
+running symlink_data
+creating /home/parichu/intern/lidar_test/install/test_lidar/share/ament_index
+creating /home/parichu/intern/lidar_test/install/test_lidar/share/ament_index/resource_index
+creating /home/parichu/intern/lidar_test/install/test_lidar/share/ament_index/resource_index/packages
+symbolically linking /home/parichu/intern/lidar_test/build/test_lidar/resource/test_lidar -> /home/parichu/intern/lidar_test/install/test_lidar/share/ament_index/resource_index/packages
+symbolically linking /home/parichu/intern/lidar_test/build/test_lidar/package.xml -> /home/parichu/intern/lidar_test/install/test_lidar/share/test_lidar

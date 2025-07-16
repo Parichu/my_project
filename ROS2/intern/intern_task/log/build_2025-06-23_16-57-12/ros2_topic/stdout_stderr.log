@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating ros2_topic.egg-info
+writing ros2_topic.egg-info/PKG-INFO
+writing dependency_links to ros2_topic.egg-info/dependency_links.txt
+writing entry points to ros2_topic.egg-info/entry_points.txt
+writing requirements to ros2_topic.egg-info/requires.txt
+writing top-level names to ros2_topic.egg-info/top_level.txt
+writing manifest file 'ros2_topic.egg-info/SOURCES.txt'
+reading manifest file 'ros2_topic.egg-info/SOURCES.txt'
+writing manifest file 'ros2_topic.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/parichu/intern/intern_task/install/ros2_topic/lib/python3.10/site-packages/ros2-topic.egg-link (link to .)
+
+Installed /home/parichu/intern/intern_task/build/ros2_topic
+running symlink_data
+creating /home/parichu/intern/intern_task/install/ros2_topic/share/ament_index
+creating /home/parichu/intern/intern_task/install/ros2_topic/share/ament_index/resource_index
+creating /home/parichu/intern/intern_task/install/ros2_topic/share/ament_index/resource_index/packages
+symbolically linking /home/parichu/intern/intern_task/build/ros2_topic/resource/ros2_topic -> /home/parichu/intern/intern_task/install/ros2_topic/share/ament_index/resource_index/packages
+symbolically linking /home/parichu/intern/intern_task/build/ros2_topic/package.xml -> /home/parichu/intern/intern_task/install/ros2_topic/share/ros2_topic

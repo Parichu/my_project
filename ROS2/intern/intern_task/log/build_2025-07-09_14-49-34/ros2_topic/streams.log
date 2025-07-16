@@ -1,0 +1,16 @@
+[0.505s] Invoking command in '/home/parichu/intern/intern_task/build/ros2_topic': PYTHONPATH=/home/parichu/intern/intern_task/build/ros2_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parichu/intern/intern_task/install/ros2_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parichu/intern/intern_task/build/ros2_topic/build --no-deps symlink_data
+[0.658s] running develop
+[0.741s] running egg_info
+[0.741s] writing ros2_topic.egg-info/PKG-INFO
+[0.741s] writing dependency_links to ros2_topic.egg-info/dependency_links.txt
+[0.741s] writing entry points to ros2_topic.egg-info/entry_points.txt
+[0.741s] writing requirements to ros2_topic.egg-info/requires.txt
+[0.741s] writing top-level names to ros2_topic.egg-info/top_level.txt
+[0.742s] reading manifest file 'ros2_topic.egg-info/SOURCES.txt'
+[0.743s] writing manifest file 'ros2_topic.egg-info/SOURCES.txt'
+[0.744s] running build_ext
+[0.744s] Creating /home/parichu/intern/intern_task/install/ros2_topic/lib/python3.10/site-packages/ros2-topic.egg-link (link to .)
+[0.744s] 
+[0.744s] Installed /home/parichu/intern/intern_task/build/ros2_topic
+[0.744s] running symlink_data
+[0.762s] Invoked command in '/home/parichu/intern/intern_task/build/ros2_topic' returned '0': PYTHONPATH=/home/parichu/intern/intern_task/build/ros2_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parichu/intern/intern_task/install/ros2_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parichu/intern/intern_task/build/ros2_topic/build --no-deps symlink_data

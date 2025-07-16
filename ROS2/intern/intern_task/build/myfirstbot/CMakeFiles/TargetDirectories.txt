@@ -1,0 +1,9 @@
+/home/parichu/intern/intern_task/build/myfirstbot/CMakeFiles/uninstall.dir
+/home/parichu/intern/intern_task/build/myfirstbot/CMakeFiles/myfirstbot_uninstall.dir
+/home/parichu/intern/intern_task/build/myfirstbot/CMakeFiles/test.dir
+/home/parichu/intern/intern_task/build/myfirstbot/CMakeFiles/edit_cache.dir
+/home/parichu/intern/intern_task/build/myfirstbot/CMakeFiles/rebuild_cache.dir
+/home/parichu/intern/intern_task/build/myfirstbot/CMakeFiles/list_install_components.dir
+/home/parichu/intern/intern_task/build/myfirstbot/CMakeFiles/install.dir
+/home/parichu/intern/intern_task/build/myfirstbot/CMakeFiles/install/local.dir
+/home/parichu/intern/intern_task/build/myfirstbot/CMakeFiles/install/strip.dir

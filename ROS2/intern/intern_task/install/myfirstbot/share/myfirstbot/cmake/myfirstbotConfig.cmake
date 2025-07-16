@@ -1,0 +1,1 @@
+/home/parichu/intern/intern_task/build/myfirstbot/ament_cmake_core/myfirstbotConfig.cmake

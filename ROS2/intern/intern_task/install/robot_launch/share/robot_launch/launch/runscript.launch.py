@@ -1,0 +1,1 @@
+/home/parichu/intern/intern_task/build/robot_launch/launch/runscript.launch.py

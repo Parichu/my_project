@@ -1,0 +1,23 @@
+[0.411s] Invoking command in '/home/parichu/intern/joycontrol/build/joy_config': PYTHONPATH=/home/parichu/intern/joycontrol/build/joy_config/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parichu/intern/joycontrol/install/joy_config/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parichu/intern/joycontrol/build/joy_config/build --no-deps symlink_data
+[0.569s] running develop
+[0.660s] running egg_info
+[0.660s] creating joy_config.egg-info
+[0.660s] writing joy_config.egg-info/PKG-INFO
+[0.660s] writing dependency_links to joy_config.egg-info/dependency_links.txt
+[0.660s] writing entry points to joy_config.egg-info/entry_points.txt
+[0.661s] writing requirements to joy_config.egg-info/requires.txt
+[0.661s] writing top-level names to joy_config.egg-info/top_level.txt
+[0.661s] writing manifest file 'joy_config.egg-info/SOURCES.txt'
+[0.661s] reading manifest file 'joy_config.egg-info/SOURCES.txt'
+[0.661s] writing manifest file 'joy_config.egg-info/SOURCES.txt'
+[0.662s] running build_ext
+[0.662s] Creating /home/parichu/intern/joycontrol/install/joy_config/lib/python3.10/site-packages/joy-config.egg-link (link to .)
+[0.663s] 
+[0.663s] Installed /home/parichu/intern/joycontrol/build/joy_config
+[0.663s] running symlink_data
+[0.663s] symbolically linking /home/parichu/intern/joycontrol/build/joy_config/package.xml -> /home/parichu/intern/joycontrol/install/joy_config/share/joy_config
+[0.663s] creating /home/parichu/intern/joycontrol/install/joy_config/share/joy_config/launch
+[0.663s] symbolically linking /home/parichu/intern/joycontrol/build/joy_config/launch/xbox_start.launch.py -> /home/parichu/intern/joycontrol/install/joy_config/share/joy_config/launch
+[0.663s] creating /home/parichu/intern/joycontrol/install/joy_config/share/joy_config/config
+[0.663s] symbolically linking /home/parichu/intern/joycontrol/build/joy_config/config/xbox_control.yaml -> /home/parichu/intern/joycontrol/install/joy_config/share/joy_config/config
+[0.680s] Invoked command in '/home/parichu/intern/joycontrol/build/joy_config' returned '0': PYTHONPATH=/home/parichu/intern/joycontrol/build/joy_config/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parichu/intern/joycontrol/install/joy_config/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parichu/intern/joycontrol/build/joy_config/build --no-deps symlink_data

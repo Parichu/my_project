@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating my_pack.egg-info
+writing my_pack.egg-info/PKG-INFO
+writing dependency_links to my_pack.egg-info/dependency_links.txt
+writing entry points to my_pack.egg-info/entry_points.txt
+writing requirements to my_pack.egg-info/requires.txt
+writing top-level names to my_pack.egg-info/top_level.txt
+writing manifest file 'my_pack.egg-info/SOURCES.txt'
+reading manifest file 'my_pack.egg-info/SOURCES.txt'
+writing manifest file 'my_pack.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/parichu/intern/my_pack_ws/install/my_pack/lib/python3.10/site-packages/my-pack.egg-link (link to .)
+Installing param script to /home/parichu/intern/my_pack_ws/install/my_pack/lib/my_pack
+
+Installed /home/parichu/intern/my_pack_ws/build/my_pack
+running symlink_data
+creating /home/parichu/intern/my_pack_ws/install/my_pack/share/ament_index
+creating /home/parichu/intern/my_pack_ws/install/my_pack/share/ament_index/resource_index
+creating /home/parichu/intern/my_pack_ws/install/my_pack/share/ament_index/resource_index/packages
+symbolically linking /home/parichu/intern/my_pack_ws/build/my_pack/resource/my_pack -> /home/parichu/intern/my_pack_ws/install/my_pack/share/ament_index/resource_index/packages
+symbolically linking /home/parichu/intern/my_pack_ws/build/my_pack/package.xml -> /home/parichu/intern/my_pack_ws/install/my_pack/share/my_pack

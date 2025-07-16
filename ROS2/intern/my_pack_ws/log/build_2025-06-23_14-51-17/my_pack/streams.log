@@ -1,0 +1,24 @@
+[0.369s] Invoking command in '/home/parichu/intern/my_pack_ws/build/my_pack': PYTHONPATH=/home/parichu/intern/my_pack_ws/build/my_pack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parichu/intern/my_pack_ws/install/my_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parichu/intern/my_pack_ws/build/my_pack/build --no-deps symlink_data
+[0.520s] running develop
+[0.603s] running egg_info
+[0.603s] creating my_pack.egg-info
+[0.603s] writing my_pack.egg-info/PKG-INFO
+[0.603s] writing dependency_links to my_pack.egg-info/dependency_links.txt
+[0.603s] writing entry points to my_pack.egg-info/entry_points.txt
+[0.603s] writing requirements to my_pack.egg-info/requires.txt
+[0.603s] writing top-level names to my_pack.egg-info/top_level.txt
+[0.603s] writing manifest file 'my_pack.egg-info/SOURCES.txt'
+[0.604s] reading manifest file 'my_pack.egg-info/SOURCES.txt'
+[0.604s] writing manifest file 'my_pack.egg-info/SOURCES.txt'
+[0.605s] running build_ext
+[0.605s] Creating /home/parichu/intern/my_pack_ws/install/my_pack/lib/python3.10/site-packages/my-pack.egg-link (link to .)
+[0.606s] Installing param script to /home/parichu/intern/my_pack_ws/install/my_pack/lib/my_pack
+[0.606s] 
+[0.606s] Installed /home/parichu/intern/my_pack_ws/build/my_pack
+[0.606s] running symlink_data
+[0.606s] creating /home/parichu/intern/my_pack_ws/install/my_pack/share/ament_index
+[0.606s] creating /home/parichu/intern/my_pack_ws/install/my_pack/share/ament_index/resource_index
+[0.606s] creating /home/parichu/intern/my_pack_ws/install/my_pack/share/ament_index/resource_index/packages
+[0.606s] symbolically linking /home/parichu/intern/my_pack_ws/build/my_pack/resource/my_pack -> /home/parichu/intern/my_pack_ws/install/my_pack/share/ament_index/resource_index/packages
+[0.606s] symbolically linking /home/parichu/intern/my_pack_ws/build/my_pack/package.xml -> /home/parichu/intern/my_pack_ws/install/my_pack/share/my_pack
+[0.622s] Invoked command in '/home/parichu/intern/my_pack_ws/build/my_pack' returned '0': PYTHONPATH=/home/parichu/intern/my_pack_ws/build/my_pack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parichu/intern/my_pack_ws/install/my_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parichu/intern/my_pack_ws/build/my_pack/build --no-deps symlink_data
