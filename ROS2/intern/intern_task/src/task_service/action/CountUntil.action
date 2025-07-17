@@ -1,0 +1,8 @@
+# Goal
+int64 target_number
+---
+# Result
+bool success
+---
+# Feedback
+int64 current_number

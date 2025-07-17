@@ -1,0 +1,4 @@
+string room_name
+---
+bool accepted
+string message

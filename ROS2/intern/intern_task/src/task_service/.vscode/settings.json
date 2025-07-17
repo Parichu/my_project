@@ -1,0 +1,38 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/parichu/intern/inturn_task/build/task_topic",
+        "/home/parichu/intern/inturn_task/install/task_topic/lib/python3.10/site-packages",
+        "/home/parichu/intern/inturn_task/build/task_service",
+        "/home/parichu/intern/inturn_task/install/task_service/lib/python3.10/site-packages",
+        "/home/parichu/intern/inturn_task/build/task_node",
+        "/home/parichu/intern/inturn_task/install/task_node/lib/python3.10/site-packages",
+        "/home/parichu/intern/my_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/parichu/intern/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/parichu/intern/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/parichu/intern/turtlebot3_ws/build/turtlebot3_example",
+        "/home/parichu/intern/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/parichu/intern/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/parichu/intern/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/parichu/intern/turtlebot3_ws/install/dynamixel_sdk/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/parichu/intern/inturn_task/build/task_topic",
+        "/home/parichu/intern/inturn_task/install/task_topic/lib/python3.10/site-packages",
+        "/home/parichu/intern/inturn_task/build/task_service",
+        "/home/parichu/intern/inturn_task/install/task_service/lib/python3.10/site-packages",
+        "/home/parichu/intern/inturn_task/build/task_node",
+        "/home/parichu/intern/inturn_task/install/task_node/lib/python3.10/site-packages",
+        "/home/parichu/intern/my_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/parichu/intern/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/parichu/intern/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/parichu/intern/turtlebot3_ws/build/turtlebot3_example",
+        "/home/parichu/intern/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/parichu/intern/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/parichu/intern/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/parichu/intern/turtlebot3_ws/install/dynamixel_sdk/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

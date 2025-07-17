@@ -1,0 +1,11 @@
+# Goal
+string room_name
+
+---
+# Result
+bool success
+string final_message
+
+---
+# Feedback
+string current_location

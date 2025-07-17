@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>task_service</name>
+  <version>0.0.0</version>
+  <description>Package that includes both C++ and Python nodes with custom interfaces</description>
+
+  <maintainer email="parichu@todo.todo">parichu</maintainer>
+  <license>MIT</license>
+
+  <!-- Build tools -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- Build/runtime dependencies -->
+  <depend>geometry_msgs</depend>
+  <depend>std_msgs</depend>
+  <exec_depend>rclcpp</exec_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>python3</exec_depend>  <!-- รองรับ Python runtime -->
+
+  <!-- สำหรับ message/service/action -->
+  <build_depend>rosidl_default_generators</build_depend>
+  <exec_depend>rosidl_default_runtime</exec_depend>
+
+  <!-- สำหรับ action -->
+  <build_depend>action_msgs</build_depend>
+  <exec_depend>action_msgs</exec_depend>
+
+  <!-- สำหรับ builtin interfaces เช่น time, duration -->
+  <build_depend>builtin_interfaces</build_depend>
+  <exec_depend>builtin_interfaces</exec_depend>
+
+  <!-- สำหรับการทดสอบ -->
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <!-- กรณีเป็น package message/service/action -->
+  <member_of_group>rosidl_interface_packages</member_of_group>
+
+  <!-- Export build system -->
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

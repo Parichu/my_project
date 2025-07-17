@@ -1,0 +1,11 @@
+# Goal definition
+float32 width
+float32 length
+int32 worker
+---
+# Result definition
+float32 total_time
+string result_message
+---
+# Feedback definition
+float32 progress_percentage

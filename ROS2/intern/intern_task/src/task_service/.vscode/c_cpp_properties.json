@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/parichu/intern/my_ws/install/tutorial_interfaces/include/**",
+        "/home/parichu/intern/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/parichu/intern/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/parichu/intern/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/parichu/intern/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/parichu/intern/turtlebot3_ws/install/dynamixel_sdk/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/parichu/intern/inturn_task/src/task_service/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
