@@ -2,3 +2,5 @@
 This is my own project for upgrade my coding skill and practice use git 
 
 In Ros2 You can download and build pkg to you work_space :)
+
+In My Python Code You can remove /usr/bin/env python3 if you not use ROS
